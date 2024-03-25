@@ -1,6 +1,7 @@
-nobody {
+body {
   margin: 0;
   background: #11110C;
+  color: white;
 }
 .burger {
   position: fixed;
@@ -30,7 +31,6 @@ nobody {
 .winner {
   height: 30px;
   font-size: 30px;
-  color: white;
 }
 .menu {
   user-select: none;
