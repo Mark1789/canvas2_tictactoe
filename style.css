@@ -1,4 +1,4 @@
-body {
+nobody {
   margin: 0;
   background: #11110C;
 }
@@ -30,6 +30,7 @@ body {
 .winner {
   height: 30px;
   font-size: 30px;
+  color: white;
 }
 .menu {
   user-select: none;
